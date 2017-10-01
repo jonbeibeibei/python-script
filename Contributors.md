@@ -4,4 +4,5 @@
 - [n0z](https://github.com/n0zg)*
 - [Himanshi](https://github.com/Himanshi-Khandelwal)
 - [pBouillon](https://github.com/pBouillon)
-- [Random Hacktoberfest Participant](https://github.com/random-hacktoberfest-participant-2017)*
+- [jonbeibeibei](https://github.com/jonbeibeibei)
+- [Random Hacktoberfest  Participant](https://github.com/random-hacktoberfest-participant-2017)*
